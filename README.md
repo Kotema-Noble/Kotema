@@ -1,4 +1,4 @@
-# Hello, I'm Kotema
+# Hello, I'm Kotema 👋🏾
 
 
 <a href="https://www.linkedin.com/in/kotema-noble-254189165/" target="_blank">
