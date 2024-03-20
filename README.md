@@ -1,4 +1,5 @@
 # Hello, I'm Kotema 👋🏾
+# Part-Time Cybersecurity Student, IT Professional
 
 
 <a href="https://www.linkedin.com/in/kotema-noble-254189165/" target="_blank">
@@ -85,3 +86,4 @@ My journey in information technology has led me to develop a passion for cyberse
 - Wireshark for Beginners: Capture Packets
 - Detection Lab
 - SOC Automation Project
+- Active Directory (Home Lab) 
